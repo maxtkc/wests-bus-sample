@@ -1,0 +1,15 @@
+titles:
+  general_information: "Información General"
+  communities: "Comunidades a las que Servimos"
+navigation:
+  - name: West's Coastal Connection
+    link: /coastal/
+  - name: Comunidades a las que Servimos
+    link: /communities/
+  - name: Información General
+    link: /general_information/
+other_services: "West's brinda otros servicios en estas áreas, como Medicaid,
+  asistencia escolar y traslados para empleados y más. Las rutas pueden estar
+  abiertas al público según el espacio disponible. autobuses."
+home: Inicio
+flag: 🇪🇸

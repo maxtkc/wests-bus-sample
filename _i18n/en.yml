@@ -1,1 +1,15 @@
-foo: bar
+titles:
+  general_information: "General Information"
+  communities: "Communities We Serve"
+navigation:
+  - name: West's Coastal Connection
+    link: /coastal/
+  - name: Communities We Serve
+    link: /communities/
+  - name: General Information
+    link: /general_information/
+other_services: "West’s does provider other services in these areas such as Medicaid,
+  school and employee shuttles and more. Routes may be open to public on space
+  available buses."
+home: Home
+flag: 🇺🇸

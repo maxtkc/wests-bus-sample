@@ -2,12 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: 1-800-596-2823
 ---
-
-{% tf foo/block.md %}
-{% t foo %}
 
 > You can get there from here! Serving Downeast Maine 7 days a week. The
 coastal connection from Calais, Machias, Ellsworth, to Bangor and points in

@@ -26,16 +26,27 @@ description: >-
   between.
 domain: maxtkc.github.io
 url: https://maxtkc.github.io
-baseurl: /wests-bus-sample/
-github_username: maxtkc
+baseurl: /wests-bus-sample
+gh_sponsor: maxtkc
 
 # Build settings
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
 
-languages: ["en", "fr"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      hero_image: /img6.jpg
+      hero_darken: true
+
+fixed_navbar: top
+
+languages: ["en", "es"]
 exclude_from_localizations: ["javascript", "images", "css"]
 
 # Exclude from processing.
