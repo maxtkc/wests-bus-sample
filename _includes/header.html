@@ -6,9 +6,9 @@
             </a>
             {% for lang in site.languages %}
               {% unless site.lang == lang %}
-              <a href="{{ site.baseurl_root }}{% if lang != site.languages[0] %}/{{ lang }}{% endif %}{{ page.url }}" class="navbar-item">
-                  {{ site.translations[lang].flag }}
-                  </a>
+                <a href="{{ site.baseurl_root }}{% if lang != site.languages[0] %}/{{ lang }}{% endif %}{{ page.url }}" class="navbar-item">
+                    {{ site.translations[lang].flag }} {{ lang }}
+                </a>
               {% endunless %}
             {% endfor %}
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
