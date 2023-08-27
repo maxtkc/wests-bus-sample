@@ -7,7 +7,7 @@
             {% for lang in site.languages %}
               {% unless site.lang == lang %}
                 <a href="{{ site.baseurl_root }}{% if lang != site.languages[0] %}/{{ lang }}{% endif %}{{ page.url }}" class="navbar-item">
-                    {{ site.translations[lang].flag }} {{ lang }}
+                    {% t other_flag %}
                 </a>
               {% endunless %}
             {% endfor %}
