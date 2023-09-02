@@ -1,3 +1,5 @@
+<div class="overflow-scroll" markdown="block">
+
 | Town           | Location                           | Westbound Time | Eastbound Time | 1-Way Fare to Bangor | 2-Way Fare to Bangor |
 |----------------+------------------------------------+----------------+----------------+----------------------+----------------------|
 | Calais         | Marden's Parking Lot               | 9:30 AM        | 6:00 PM        | $27                  | $42                  |
@@ -15,6 +17,8 @@
 | Ellsworth      | Main Entrance Mill Mall (Out Back) | 12:25 PM       | 3:05 PM        | $16                  | $21                  |
 | Bangor         | Concord Trailways                  | 1:10 PM        | 2:00 PM        |                      |                      |
 | 🚩 Bangor      | Bangor Airport                     | 1:15 PM        | 2:05 PM        |                      |                      |
+
+</div>
 
 > 🚩 Towns with red flags are flag stops only
 

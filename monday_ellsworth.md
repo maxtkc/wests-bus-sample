@@ -4,6 +4,8 @@ title: Monday Ellsworth Service
 permalink: /monday-ellsworth/
 ---
 
+<div class="overflow-scroll" markdown="block">
+
 | Town           | Location                          | Westbound Time | Eastbound Time |
 |----------------|-----------------------------------|----------------|----------------|
 | Beals Island   | Post Office                       | 8:30 AM        | 3:05 PM        |
@@ -16,5 +18,7 @@ permalink: /monday-ellsworth/
 | Milbridge      | West Manor                        | 9:35 AM        | 2:10 PM        |
 | Steuben        | Town Office                       | 9:40 AM        | 2:05 PM        |
 | Ellsworth      |                                   | 10:30 AM       | 1:30 PM        |
+
+</div>
 
 > 🚩 Towns with red flags are flag stops only

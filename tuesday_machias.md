@@ -4,6 +4,8 @@ title: Tuesday Machias Service
 permalink: /tuesday-machias/
 ---
 
+<div class="overflow-scroll" markdown="block">
+
 | Town           | Location                          | Eastbound Time | Westbound Time |
 |----------------|-----------------------------------|----------------|----------------|
 | Steuben        | Town Office                       | 8:15 AM        | 1:35 PM        |
@@ -15,5 +17,7 @@ permalink: /tuesday-machias/
 | Addison        | Town Hall, River Bend Apts.       | 8:45 AM        | 12:35 PM       |
 | Jonesport      | Post Office, Gaelic Squares Apts. | 9:00 AM        | 12:30 PM       |
 | Machias        |                                   | 9:30 AM        | 12:00 PM       |
+
+</div>
 
 > 🚩 Towns with red flags are flag stops only
