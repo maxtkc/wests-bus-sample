@@ -2,8 +2,15 @@ titles:
   general_information: "Información General"
   communities: "Comunidades a las que Servimos"
 navigation:
-  - name: West's Coastal Connection
+  - name: Horarios
     link: /coastal/
+    dropdown:
+      - name: Coastal
+        link: /coastal/
+      - name: Monday Ellsworth
+        link: /monday-ellsworth/
+      - name: Tuesday Machias
+        link: /tuesday-machias/
   - name: Comunidades a las que Servimos
     link: /communities/
   - name: Información General
