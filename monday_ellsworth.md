@@ -22,3 +22,5 @@ permalink: /monday-ellsworth/
 </div>
 
 > 🚩 Towns with red flags are flag stops only
+
+> Round trip fare: \$10
