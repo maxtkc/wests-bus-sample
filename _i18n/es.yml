@@ -7,9 +7,9 @@ navigation:
     dropdown:
       - name: Coastal
         link: /coastal/
-      - name: Monday Ellsworth
+      - name: Lunes Ellsworth
         link: /monday-ellsworth/
-      - name: Tuesday Machias
+      - name: Martes Machias
         link: /tuesday-machias/
   - name: Comunidades a las que Servimos
     link: /communities/
