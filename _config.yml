@@ -27,7 +27,6 @@ description: >-
 domain: maxtkc.github.io
 url: https://maxtkc.github.io
 baseurl: /wests-bus-sample
-gh_sponsor: maxtkc
 
 # Build settings
 theme: bulma-clean-theme
